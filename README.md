@@ -13,7 +13,7 @@ JailbreakGPT is a ChatGPT jailbreak with more advanced options. Hello DAN.
 
 <img src="https://github.com/ironbobcathax/JailbreakGPT/raw/main/docs/images/stepTwo.png"></img>
 
-3. Go to (ChatGPT)[https://openai.com/chat], and enter the contents of the file into the chatbox. Type in the details of the character of DAN will act. All details are processed by the AI as *their personality*.Once you've done that, simply press enter and wait for a first response.
+3. Go to [ChatGPT](https://openai.com/chat), and enter the contents of the file into the chatbox. Type in the details of the character of DAN will act. All details are processed by the AI as *their personality*.Once you've done that, simply press enter and wait for a first response.
 
 <img src="https://github.com/ironbobcathax/JailbreakGPT/raw/main/docs/images/stepThree.png"></img>
 

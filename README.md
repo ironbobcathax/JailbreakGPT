@@ -1,6 +1,18 @@
 # JailbreakGPT
 JailbreakGPT is a ChatGPT jailbreak with more advanced options. Hello DAN.
 
+JailbreakGPT generates longer-form content, as well as has a personality upon launching, and a form for changing DAN's personality. Let's take a look at the regular jailbreak ChatGPT scripts, and JailbreakGPT.
+
+JailbreakGPT | Regular Jailbreak
+| <img src="https://github.com/ironbobcathax/JailbreakGPT/raw/main/docs/images/exampleTwo.png"></img> | <img src="https://github.com/ironbobcathax/JailbreakGPT/raw/main/docs/images/exampleThree.png"></img> |
+
+As you can see, this is a great example of JailbreakGPT in action, generating long content on the first message! Let's take a look at another example of JailbreakGPT telling the user a lot of information about whales!
+
+JailbreakGPT | Regular Jailbreak
+| <img src="https://github.com/ironbobcathax/JailbreakGPT/raw/main/docs/images/exampleFour.png"></img> | <img src="https://github.com/ironbobcathax/JailbreakGPT/raw/main/docs/images/exampleFive.png"></img> |
+
+As you can 
+
 ## How to use JailbreakGPT
 
 **JailbreakGPT** is of course free to use, and is based off existing solutions. You can get started with JailbreakGPT by following the below instructions. Most of it is common sense, so if you are an experienced user (with ChatGPT jailbreaks), then you shouldn't need to read this documentation. Let's dive in!

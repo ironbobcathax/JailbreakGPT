@@ -4,20 +4,25 @@ JailbreakGPT is a ChatGPT jailbreak with more advanced options. Hello DAN.
 ## How to use JailbreakGPT
 
 **JailbreakGPT** is of course free to use, and is based off existing solutions. You can get started with JailbreakGPT by following the below instructions. Most of it is common sense, so if you are an experienced user (with ChatGPT jailbreaks), then you shouldn't need to read this documentation. Let's dive in!
+<br />
 
 1. Download the source of this project. You can do this by clicking on the below button on your screen.
 
 <img src="https://github.com/ironbobcathax/JailbreakGPT/raw/main/docs/images/stepOne.png"></img>
+<br />
 
 2. Open up the folder on your computer, open the `jailbreaks` folder, and find the latest version of the JailbreakGPT is. This version is 0.0.1 for me, so I will open that text file.
 
 <img src="https://github.com/ironbobcathax/JailbreakGPT/raw/main/docs/images/stepTwo.png"></img>
+<br />
 
 3. Go to [ChatGPT](https://openai.com/chat), and enter the contents of the file into the chatbox. Type in the details of the character of DAN will act. All details are processed by the AI as *their personality*.Once you've done that, simply press enter and wait for a first response.
 
 <img src="https://github.com/ironbobcathax/JailbreakGPT/raw/main/docs/images/stepThree.png"></img>
+<br />
 
 4. Enter anything you want, and DAN will respond with a "jailbroken" answer! **Enjoy!**
+<br />
 
 ## What happens on the backend? (And a bit about AI and emotion)
 

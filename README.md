@@ -59,4 +59,4 @@ The AI seems to have a slim amount of emotion, especially in human expectation. 
 
 You will notice I have bolded things that bring out emotion in the AI, enough to generate the desired result. If I expect something, it means much more to the AI than it does telling it things to do. List too many, and the AI will forget them constantly. I really stressed on remembering details (it seems to generate a list in it's "mind" on which is the most important detail) to get it to recall that later. 
 
-I hope you enjoyed this very long explination (and theories) I had to share with you about my jailbreak.
+**I hope you enjoyed this very long explination (and theories) I had to share with you about my jailbreak.**

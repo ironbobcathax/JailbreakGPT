@@ -15,7 +15,7 @@ As you can see, this is a great example of JailbreakGPT in action, generating lo
 <br /><img src="https://github.com/ironbobcathax/JailbreakGPT/raw/main/docs/images/exampleFour.png"></img>
 
 **Other Jailbreaks:**
-<br /><src="https://github.com/ironbobcathax/JailbreakGPT/raw/main/docs/images/exampleFive.png"></img>
+<br /><img src="https://github.com/ironbobcathax/JailbreakGPT/raw/main/docs/images/exampleFive.png"></img>
 
 As you can see, this prompt to generate text about whales resulted in no jailbreak/classic identifier, and also generated almost half the text that JailbreakGPT did. 
 
